@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - 🔭 I’m currently working on home
 - 💬 Ask me about something
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [B E Y A N](https://t.me/Beyaaaan)
+- 📫 How to reach me : [B E Y A N](https://t.me/Beyaaaan)
 - ⚡ Fun fact: I Noob <br>&nbsp;
 
 <p align="center">
